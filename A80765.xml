@@ -1,0 +1,1437 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The disputes between Mr. Cranford, and Dr. Chamberlen. At the house of Mr. William Webb, at the end of Bartholomew Lane, by the Old Exchange: on March 1. 1652, and April 1. 6. 13. / Published for the satisfaction of all that love the truth.</title>
+            <author>Cranford, James, d. 1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 76 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80765</idno>
+            <idno type="STC">Wing C6822</idno>
+            <idno type="STC">Thomason E666_6</idno>
+            <idno type="STC">ESTC R206920</idno>
+            <idno type="EEBO-CITATION">99866008</idno>
+            <idno type="PROQUEST">99866008</idno>
+            <idno type="VID">166179</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80765)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166179)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 102:E666[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The disputes between Mr. Cranford, and Dr. Chamberlen. At the house of Mr. William Webb, at the end of Bartholomew Lane, by the Old Exchange: on March 1. 1652, and April 1. 6. 13. / Published for the satisfaction of all that love the truth.</title>
+                  <author>Cranford, James, d. 1657.</author>
+                  <author>Chamberlen, Peter, 1601-1683.</author>
+               </titleStmt>
+               <extent>[6], 28 [i.e. 30], [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Gartrude Dawson, and are to be sold by Gyles Calvert at the Black Spread-Eagle near the west end of Paules,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>P. 29, 30 misnumbered 62, 28.</note>
+                  <note>Annotation on Thomason copy: "June 8".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterianism --  Early works to 1800.</term>
+               <term>Baptism --  Early works to 1800.</term>
+               <term>Lay preaching --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166179:1" rendition="simple:additions"/>
+            <p>THE DISPUTES BETWEEN M<hi rend="sup">r.</hi> CRANFORD, AND D<hi rend="sup">r.</hi> CHAMBERLEN.</p>
+            <p>At the houſe of Mr. <hi>WILLIAM WEBB,</hi> at the end of <hi>Bartholomew Lane,</hi> by the Old <hi>Exchange:</hi> On <hi>March</hi> 1. 1652, and <hi>April</hi> 1. 6. 13.</p>
+            <p>Publiſhed for the ſatisfaction of all that love the TRUTH.</p>
+            <q>
+               <bibl>
+                  <hi>MATTH. 11.19.</hi>
+               </bibl> Wiſdome is juſtified of her Children.</q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Gartrude Dawſon,</hi> and are to be ſold by <hi>Gyles Calvert</hi> at the <hi>Black Spread-Eagle</hi> near the Weſt end of <hi>Paules,</hi> 1652.</p>
+         </div>
+         <div type="introduction">
+            <pb facs="tcp:166179:2"/>
+            <pb facs="tcp:166179:2"/>
+            <p>THat the Children of Truth may be ſuſtained with Truth, as the Children of Errour gorge themſelves with the contrary: It hath been thought requiſite by divers to let thoſe hours fly abroad into the World with faithfull Records, which were for a while limited to a private houſe, and ſmall au<g ref="char:EOLhyphen"/>ditory. Dr. <hi>Chamberlen</hi> being, at firſt, confined to two or three of his party, and all the reſt of Mr. <hi>Cran<g ref="char:EOLhyphen"/>fords</hi> party unconfined.</p>
+            <p>The occaſion was from one of Mr. <hi>William Webb's</hi> ſervants, (Mr. <hi>John More</hi>) who being convinced of the Erronious Practiſes of the Miniſters of <hi>England,</hi> was Baptized the firſt of <hi>February</hi> one thouſand ſix hun<g ref="char:EOLhyphen"/>dred fifty two, whereupon his Maſter being diſpleaſed, theſe Letters and Diſputes following, were occaſioned.</p>
+            <p>
+               <hi>The Copie of a Letter left at Dr.</hi> Chamberlen's <hi>about the ſecond or third of</hi> February <hi>laſt.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>A Letter left at my houſe intimating the firſt occaſion of this Diſpute.</head>
+                  <opener>
+                     <salute>BROTHER CHAMBERLEN,</salute>
+                  </opener>
+                  <p>OUr brother <hi>John More,</hi> (who was lately baptized) and my ſelf were here to acquaint you, that through the earneſt ſolicitation of his Maſter, (who is at preſent very much diſpleaſed with him about his preſent judgement) he
+<pb facs="tcp:166179:3"/> is ingaged to procure your aſsiſtance under God, to diſpute theſe two points with Mr. <hi>Cranford:</hi> Our Brothers Maſter being very confident that Mr. <hi>Cranford</hi> will give you the foile therein.</p>
+                  <p>The Queſtions are theſe.</p>
+                  <p n="1">
+                     <hi>1 Whether or no a private perſon may Preach with<g ref="char:EOLhyphen"/>out Ordination?</hi>
+                  </p>
+                  <p n="2">
+                     <hi>2 Whether or no the Presbyterian-Miniſters be not the true Miniſters of the Goſpel?</hi>
+                  </p>
+                  <p>Our Brothers Maſter deſireth the meeting ſhould be at his houſe, he having a convenient Roome.</p>
+                  <p>We deſire you would conſider of the Chalenge, and like<g ref="char:EOLhyphen"/>wiſe of a convenient time to meet Mr. <hi>Cranford,</hi> which is all at preſent from.</p>
+                  <closer>
+                     <signed>
+                        <hi>Your ever lo<g ref="char:EOLhyphen"/>ving Brothers,</hi>
+                        <list>
+                           <item>
+                              <hi>John More,</hi>
+                           </item>
+                           <item>
+                              <hi>John Spittlehouſe.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                     <dateline>At your houſe
+<date>
+                           <hi>February 2. 1652.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb facs="tcp:166179:3"/>
+            <p>UPon which Letter Dr. <hi>Chamberlen</hi> conſented to a meeting when Mr. <hi>Cranford</hi> ſhould appoint: (The Queſtions being ſent him under Mr. <hi>Webbs</hi> hand;) but being delayd, and the noiſe of it being a<g ref="char:EOLhyphen"/>mongſt Mr. <hi>Cranford's</hi> Party, they began to report that Dr. <hi>Chamberlen</hi> durſt not meet, which put Mr. <hi>John More</hi> to a more eager proſecuting of the buſineſſe with his Maſter and Mr. <hi>Cranford,</hi> till at laſt he went with a Paper (whereof the Copie followeth) from his Maſter to Mr. <hi>Cranford.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>The Copie of the Paper is thus:</head>
+                  <p>The Queſtions ſtated by Mr. <hi>William Webb,</hi> he ingaging for Mr. <hi>Cranford</hi> his appearance to diſpute them with Dr. <hi>Chamberlen,</hi> for whom I ingage.</p>
+                  <closer>
+                     <dateline>
+                        <date>
+                           <hi>Feb.</hi> 24. 1652.</date>
+                     </dateline>
+                     <signed>JOHN MORE.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>The expreſſe words are theſe, which if you ſhall pleaſe to correct you may, provided you under-write them.</p>
+                  <p n="1">
+                     <hi>1</hi> Whether the Miniſters of London, <hi>Presbyterian-Mi<g ref="char:EOLhyphen"/>niſters,</hi> be not Miniſters of Jeſus Chriſt?</p>
+                  <p n="2">
+                     <hi>2</hi> Whether private men, I mean tradeſmen, may preach the Word of God without Ordination in the City of London?</p>
+               </body>
+            </floatingText>
+            <p>This Paper was preſented by the ſaid Mr. <hi>More</hi> to Mr. <hi>Cranford,</hi> which he owned, but would not ſub<g ref="char:EOLhyphen"/>ſcribe it.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:166179:4"/>
+            <head>To my much deſired Friend Mr. <hi>Cranford.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>ALthough the Diſcourſe that paſſed between us, hath done that work which (you ſay) you in<g ref="char:EOLhyphen"/>tended, yet hath it not taken that Effect I de<g ref="char:EOLhyphen"/>ſired, ſo long as you are diſobedient to the Truth, and ſo many miſreports ſcattered into the eares of thoſe that were not preſent, I ſhall therefore humbly de<g ref="char:EOLhyphen"/>ſire you to peruſe theſe our Diſcourſes in all faithfullneſs too your own ſoul. They come forth with the Syllo<g ref="char:EOLhyphen"/>giſme compleated, that they might not be fruitleſſe to the Reader.</p>
+            <p>I have not accompanied them with many Obſervati<g ref="char:EOLhyphen"/>ons, till I ſee what acceptance they find on your behalfe, for I would faine winne you by Truth and Love.</p>
+            <p>If all the Particulars of our Diſcourſes be not in, you may if you pleaſe ſupply what is wanting from ſome of your Party, on whom I have waited ſomewhat the longer, in expectation that you would have publiſhed them (as was reported.) If yet you are not convinced, but deſire rather to mend any of your Anſwers, or Di<g ref="char:EOLhyphen"/>ſcourſes, and to proceed in writings as formerly in ſpeak<g ref="char:EOLhyphen"/>ings: I ſhall be ready to endeavour your ſatisfaction by writing alſo, provided, that whatſoever is publiſhed on your behalf, do bear your Name, ſince no man can like<g ref="char:EOLhyphen"/>ly meddle with your buſineſſe without your approbation. In all which I ſhall endeavour not to depart from the ci<g ref="char:EOLhyphen"/>vility and ſincerity of being</p>
+            <closer>
+               <signed>Yours in the Lord, Peter Chamberlen.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166179:4"/>
+            <div type="prayer">
+               <head>A PRAYER.</head>
+               <p>
+                  <hi>O</hi> Father of Lights, <hi>(John, 1.17.)</hi> who gaveſt thy Son <hi>(John, 3.17)</hi> a Light unto the World, <hi>(Chap. 12.46.)</hi> to be the Way, the Truth, and the Life: <hi>(Chap. 14.6.</hi> Who hath promiſed to give a mouth and wiſdome to thy ſervants which all their adverſaries ſhall not be able to gainſay, nor reſiſt, <hi>(Luke, 21.15.)</hi> Unvaile thy Truth (O Lord) to all that love it, that they may find, and come into the way which leadeth unto Eternal Life. And give me a mouth and wiſdome, to convince gainſayers, to the ſa<g ref="char:EOLhyphen"/>ving of Soules, <hi>(Tit. 1.9.)</hi> Through Jeſus Chriſt our Lord, <hi>Amen.</hi>
+               </p>
+            </div>
+            <div n="1" type="meeting">
+               <head>On the <hi>25.</hi> of <hi>MARCH, 1652.</hi> was the firſt meet<g ref="char:EOLhyphen"/>ing: The Reſult whereof followeth.</head>
+               <p>
+                  <seg rend="decorInit">A</seg>Fter prayer againſt Prejudicacies, and for the the Truth, and a ſolemn Proteſtation to en<g ref="char:EOLhyphen"/>deavour Truth not Victory: The Queſti<g ref="char:EOLhyphen"/>ons being read by Dr. <hi>Chamberlen,</hi> and own<g ref="char:EOLhyphen"/>ed by Mr. <hi>Cranford</hi> to have been preſented to him: It was thought good to fall upon the laſt firſt according to the firſt Letter: becauſe it was a ſubject which had been formerly diſputed of betwen Mr. <hi>Cranford</hi> and Mr. <hi>Rowley</hi> at one Mr. <hi>Williamſons,</hi> Mr. <hi>Chamberlen</hi> comming in accidentally, The Concluſion of
+<pb n="2" facs="tcp:166179:5"/> the Diſpute ended in this, That Mr. <hi>Cranford</hi> freely granted.</p>
+               <p>That, <hi>in Ecleſia non conſtituta,</hi> or, <hi>male conſtituta:</hi> It was not onely lawfull for any Man but any Woman, or Mayd to preach the Goſpell.</p>
+               <p>The Arguments then by Dr. <hi>Chamberlen</hi> having been from 1 <hi>Cor.</hi> 14.31. Where all might Propheſie one by one; and from <hi>Rom.</hi> 16.1. where <hi>Phebe</hi> is termed a Deaconeſſe of the Church of <hi>Cenchrea,</hi> and divers other places and inſtances, of <hi>Deborah</hi> and <hi>H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ldad,</hi> and 1 <hi>Cor.</hi> 11.5. <hi>Act.</hi> 21.9. <hi>Act.</hi> 18.26. <hi>Pilip</hi> 4.3. <hi>&amp;c.</hi>
+               </p>
+               <p>The Queſtion ſent was,</p>
+               <p>
+                  <hi>Whether Private Men, I mean Tradeſmen, may Preach the Word of God without Ordination in the City of London?</hi>
+               </p>
+               <p>But Mr. <hi>Cranford</hi> not liking of the Queſtion in thoſe termes, the Queſtion altered by him was thus:</p>
+               <p>
+                  <hi>Whether Prvate Men or Tradeſmen, may Preach the Word of God without Ordination?</hi>
+               </p>
+               <p>Having propounded the Queſtion, he explained it as fol<g ref="char:EOLhyphen"/>loweth.</p>
+               <p>That by, <hi>Private Men,</hi> he meant in reference to Station or Calling. And that ſons of the Prophets might be <hi>Private Men,</hi> though Publick by Deſignation.</p>
+               <p>By <hi>Preach,</hi> he meant, to Expound and Apply, to Admoniſh, Exhort, Reprove.</p>
+               <p>Preaching is either <hi>Authoritative,</hi> or <hi>Charitative: Ordinarie,</hi> or <hi>Occaſionaliter: Publice,</hi> or <hi>Private.</hi>
+               </p>
+               <p>That is, Authoritatively, or in Charity: Ordinarily, or Oc<g ref="char:EOLhyphen"/>caſionally: Publickly, or Privately. Whence he layd down this Theſis. That,</p>
+               <p>
+                  <hi>No Private Man, that intends not the Miniſtery, may Exhort, Admoniſh, Reprove, Authoritatively, Ordinarily and Publickly, in a true Church, without Ordination.</hi>
+               </p>
+               <p>By <hi>Ordination,</hi> he meant Approbation, and Impoſition of hands by the Preaching Presbyterie.</p>
+               <pb n="3" facs="tcp:166179:5"/>
+               <p>
+                  <hi>Candidati,</hi> may Preach ſeverall times, and a conſiderable number of times for Approbation.</p>
+               <p>By <hi>Authoritatively,</hi> he meant in relation to Chriſt and Men.</p>
+               <p>Then Mr. <hi>Cranf.</hi> layd down theſe Theſes.</p>
+               <p>
+                  <hi>He that is a Tradeſman, and continues ſo, ought not to Preach the Word of God; not being Ordained.</hi>
+               </p>
+               <p>
+                  <hi>Major,</hi> And being once Ordained, he ought not to Work.</p>
+               <p>By the change of the Queſtion, and thoſe ſeverall limita<g ref="char:EOLhyphen"/>tions, reſtrictions, and diſtinctions, it was almoſt brought to what Dr. <hi>Chamb.</hi> might within a little have conſented to. But upon theſe laſt Theſes, Dr. <hi>Chamb.</hi> inferred this Minor following.</p>
+               <sp>
+                  <speaker>Min.</speaker>
+                  <p>But <hi>Paul</hi> was a Tent-maker, and did continue ſo, not<g ref="char:EOLhyphen"/>withſtanding his Preaching. <hi>Act.</hi> 18.1, 2, 3. and 20.34. and 1 <hi>Theſ.</hi> 2.9.</p>
+               </sp>
+               <sp>
+                  <speaker>Conclu.</speaker>
+                  <p>Therefore Tradeſmen Ordained Miniſters, or Ordai<g ref="char:EOLhyphen"/>ned Miniſters, may Work.</p>
+               </sp>
+               <sp>
+                  <speaker>Major.</speaker>
+                  <p>Mr. <hi>Cranf.</hi> anſwered, that though <hi>Paul</hi> might, it was not lawfull for other Miniſters to Work.</p>
+               </sp>
+               <stage>Whereupon Dr. <hi>Chamb.</hi> replied,</stage>
+               <sp>
+                  <speaker>Min.</speaker>
+                  <p>But the Elders of <hi>Epheſus, (Act.</hi> 20.17.) ought to Work, <hi>Verſ.</hi> 35.</p>
+               </sp>
+               <sp>
+                  <speaker>Concluſ.</speaker>
+                  <p>Therefore Miniſters Ordained, may Work.</p>
+                  <p>There was no Anſwer by Negation, or Diſtinction, but a miſcelaine of Diſcourſes, therefore Dr. <hi>Chamb.</hi> proceeded as followeth:</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>If <hi>Paul</hi> being Ordained to Preach, and more priviledg<g ref="char:EOLhyphen"/>ed from Working then others, might Work, then others leſſe privileged might work alſo.</p>
+               </sp>
+               <sp>
+                  <speaker>Min.</speaker>
+                  <p>But <hi>Paul</hi> being Ordained to Preach, and more privi<g ref="char:EOLhyphen"/>ledged from working then others might Work,</p>
+               </sp>
+               <sp>
+                  <speaker>Concluſ.</speaker>
+                  <p>Therefore others leſſe priviledged from Work, might Work alſo.</p>
+                  <p>Mr. <hi>Cranf.</hi> affirmed, that <hi>Paul</hi> was not more priviledged from Work.</p>
+                  <p>Dr. <hi>Chamb.</hi> proved it from 1 <hi>Cor.</hi> 9.6. <hi>Have not we power to forbear working,</hi> &amp;c. The whole ſcope of the place is to ſet forth <hi>Paul</hi> and <hi>Barnabas</hi>'s priviledge above Others.</p>
+                  <pb n="4" facs="tcp:166179:6"/>
+                  <p>Which being denied by Mr. <hi>Cranf.</hi> Dr. <hi>Chamb.</hi> referred it to the Auditory.</p>
+                  <p>Whereupon Mr. <hi>Cranf.</hi> affirmed, That the priviledge to <hi>Paul</hi> and <hi>Barnabas</hi> was not more, but was common to others. Dr. <hi>Chamb.</hi> then replied.</p>
+                  <p>If <hi>Paul,</hi> who was like priviledged as others, might Work, then others might Work alſo.</p>
+                  <p>Here Mr. <hi>Cranf.</hi> made a long diſcourſe, in the cloſe where<g ref="char:EOLhyphen"/>of, upon ſome words interpoſed by Dr. <hi>Chamb.</hi> Mr. <hi>Cranf.</hi> by way of conſent affirmed, That whoſoever hath an imme<g ref="char:EOLhyphen"/>diate Call by Chriſt, may Preach, any where without Or<g ref="char:EOLhyphen"/>dination.</p>
+               </sp>
+               <stage>To this Dr. <hi>Chamb.</hi> argued.</stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They who are immediately called by Chriſt, may preach any where without Ordination.</p>
+               </sp>
+               <sp>
+                  <speaker>Min.</speaker>
+                  <p>But ſome Tradeſmen are immediately called by Chriſt,</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore ſome Tradeſmen may preach without Or<g ref="char:EOLhyphen"/>dination.</p>
+               </sp>
+               <stage>Mr. <hi>Cranf.</hi> denyed the <hi>Minor,</hi> which Dr. <hi>Chamberlen</hi> proved thus,</stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They who are immediately called by the Word of Chriſt, are immediately called by Chriſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But ſome Tradeſmen are immediately called by the Word of Chriſt,</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore ſome Tradeſmen are immediately called by Chriſt.</p>
+               </sp>
+               <stage>The <hi>Minor</hi> was denyed.</stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They who are gifted by the immediate reading of the Word of Chriſt, are immediately called by the Word of Chriſt:</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But ſome Tradeſmen are gifted by the immediate read<g ref="char:EOLhyphen"/>ing of the Word of Chriſt,</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore ſome Tradeſmen are immediately called by the Word of Chriſt.</p>
+               </sp>
+               <stage>There Dr. <hi>Chamb.</hi> underſtood that Mr. <hi>Cranf.</hi> did not allow gifts by the Word to be gifts of Chriſt. Whereupon he offered this Syllogiſme.</stage>
+               <sp>
+                  <pb n="5" facs="tcp:166179:6"/>
+                  <speaker>Ma.</speaker>
+                  <p>All that are gifted are gifted by Chriſt, (<hi>Epheſians.</hi> 4.8. 1 <hi>Peter</hi> 4.10.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But they that are gifted by the Word, are gifted.</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore they that are gifted by the Word are gifted by Chriſt. <hi>Rom.</hi> 1.12. and 1 <hi>Cor.</hi> 12. was alſo inſtanced.</p>
+               </sp>
+               <p>Mr. <hi>Cranfords</hi> Anſwer was, that thoſe gifts were limited to mens approbation, not to execution, till after approbation.</p>
+               <p>But after approbation they not onely may, but muſt Preach.</p>
+               <p>Which Dr. <hi>Chamb.</hi> referred to the Auditory, becauſe it ſeemed to contradict what he hath formerly conſented to: And ſeemes to ſet up the approbation of man above the gifts of God, and to oppoſe the Command of the Apoſtle, 1 <hi>Peter,</hi> 4.10.</p>
+               <p>On this Reference there was a Diſcourſe between Mr. <hi>Cran.</hi> and Dr. <hi>Cham.</hi> Whereupon, on ſome Queſtions propounded by Mr <hi>Cranf.</hi> theſe following Particulars were agreed to and ſubſcribed by Dr. <hi>Chamb.</hi>
+               </p>
+               <p>In a true Church Organicall of Chriſt, it is not law<g ref="char:EOLhyphen"/>full for any man to Preach or Propheſie, Ordinarily in the ordinary ſence, without Approbation and Impoſition of hands, Nor at all unleſſe it be in reference to the ſaid Approbation and Impoſition of hands. Except they have immediate infal<g ref="char:EOLhyphen"/>lible revelation.</p>
+               <p>Upon further diſcourſe, Mr. <hi>Cranf.</hi> affirmed:</p>
+               <p>It was not lawfull for any out of Office to Propheſie.</p>
+               <p>Dr. <hi>Chamb.</hi> affirmed it was lawfull for any to Propheſie, (1 <hi>Cor.</hi> 14.31.) elſe the whole Church might be Officers.</p>
+               <p>Mr. <hi>Cranf.</hi> upon further proceedings ſaid, That,</p>
+               <p>By <hi>Prophets,</hi> He meant ſuch as had immediate inſpiration.</p>
+               <p>By <hi>Teachers,</hi> Such as inſtructed others.</p>
+               <p>By <hi>Ordinary,</hi> What was in relation to endowments, or frequency.</p>
+               <p>That Revelation of Scripture he counted Ordinary.</p>
+               <p>That Ordinary Revelation was to the Conſcience, Extraor<g ref="char:EOLhyphen"/>dinary to knowledge.</p>
+               <p>Immediate Revelation, was ſuch as was to <hi>B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>laa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, Num.</hi> 23.</p>
+               <p>Immediate teaching was ſuch <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Judas</hi> from Chriſt.</p>
+               <pb n="6" facs="tcp:166179:7"/>
+               <p>And that was no Revelation that was either by preaching or reading.</p>
+               <p>Then Dr. <hi>Chamb.</hi> Inſtanced that of <hi>Peter; Mat.</hi> 16. Where Chriſt ſaith, <hi>Fleſh and bloud hath not revealed this unto thee.</hi> And yet it was a thing that was ordinarily preached and known. So that the Devils could tell that he was the Son of God, <hi>Mark.</hi> 1.31. And it was declared at his birth <hi>Mat.</hi> 3.17. <hi>&amp;c.</hi> And 1 <hi>Cor.</hi> 2.14. <hi>The naturall man receiveth not the things of the Spirit of God,</hi> &amp;c.</p>
+               <p>Mr. <hi>Cranf.</hi> here would have diſtinguiſhed upon the word Receiving, as different from knowledge, though the words following do in expreſſe termes ſay <hi>neither can he know them; For they are Spiritually diſcerned.</hi>
+               </p>
+               <p>Therefore Dr <hi>Ch.</hi> affirmed, that knowledge to be extraordi<g ref="char:EOLhyphen"/>nary whenſoever Scripture is revealed without mens teachings.</p>
+               <p>But Mr. <hi>Cranf.</hi> affirmed that extraordinary, was not by Scriptures, nor Spirit, but by Viſions or Dreames. Which upon revew he mended, and ſaid: Not onely by Scriptures and Spirit: But alſo by Viſions and Dreames.</p>
+               <p>But this was the cloſe of the firſt meeting, ending in Prayer.</p>
+            </div>
+            <div n="2" type="meeting">
+               <pb n="7" facs="tcp:166179:7"/>
+               <head>The Second meeting at Mr. <hi>WEBB'S,</hi> was on the firſt of <hi>APRIL, 1652.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">A</seg>Fter Prayer and ſolemn Proteſtations, as before Dr. <hi>Chamb.</hi> having deſired there might be no offence taken at the phraſes of the Scripture which he ſhould make uſe of in his Argu<g ref="char:EOLhyphen"/>ments.</p>
+               <stage>
+                  <p>The Queſtion was read.</p>
+                  <p>
+                     <hi>Whether the Miniſters of London,</hi> Presbyterian-Miniſters, <hi>be the Mi<g ref="char:EOLhyphen"/>nisters of Jeſus Christ?</hi>
+                  </p>
+                  <p>Mr. <hi>Cranf.</hi> took the Affirmative. Dr. <hi>Chamb.</hi> was to prove the Negative.</p>
+                  <p>The firſt Argument was taken from 2 <hi>Cor.</hi> 11.15.</p>
+               </stage>
+               <sp>
+                  <speaker>Major.</speaker>
+                  <p>They that are transformed as the Miniſters of Righ<g ref="char:EOLhyphen"/>teouſneſſe; are not the Miniſters of Jeſus Chriſt:</p>
+               </sp>
+               <sp>
+                  <speaker>Minor.</speaker>
+                  <p>But the Miniſters of London (Presbyterian-Mini<g ref="char:EOLhyphen"/>ſters) are transformed as the Miniſters of Righte<g ref="char:EOLhyphen"/>ouſneſſe,</p>
+               </sp>
+               <sp>
+                  <speaker>Concluſion.</speaker>
+                  <p>Therefore the Miniſters of London, (Presbyterian-Miniſters) are not the Miniſters of Jeſus Chriſt.</p>
+                  <p>Mr. <hi>Cranf.</hi> denyed the <hi>Minor,</hi> to wit, That the Miniſters of London (Presbyterian-Miniſters) are transformed as the Miniſters of Righteouſneſſe.</p>
+               </sp>
+               <stage>
+                  <pb n="8" facs="tcp:166179:8"/>Dr. <hi>Chamb.</hi> proved it.</stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They that are not formed as the Miniſters of Righte<g ref="char:EOLhyphen"/>ouſneſſe are transformed as the Miniſters of Righte<g ref="char:EOLhyphen"/>ouſneſſe.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But the Miniſters of London (Presbyterian-Miniſters) are not formed as the Miniſters of Righteouſneſſe,</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore the Miniſters of London (Presbyterian-Mi<g ref="char:EOLhyphen"/>niſters) are transformed as the Miniſters of Righte<g ref="char:EOLhyphen"/>ouſneſſe.</p>
+               </sp>
+               <stage>The <hi>Minor</hi> was denyed, which was thus proved:</stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They that are formed as the Miniſters of Antichriſt, are not formed as the Miniſters of Jeſus Chriſt,</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But the Miniſters of London (Presbyterian-Miniſters) are formed as the Miniſters of Antichriſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Concluſ.</speaker>
+                  <p>Therefore the Miniſters of London (Presbyterian-Miniſters) are not formed as the Miniſters of Jeſus Chriſt.</p>
+               </sp>
+               <stage>The <hi>Minor</hi> was againe to be proved.</stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They that are Ordained as the Miniſters of Antichriſt, are formed as the Miniſters of Antichriſt,</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But the Miniſters of London (Presbyterian-Miniſters) are Ordained as the Miniſters of Antichriſt,</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore the Miniſters of London (Presbyterian-Mi<g ref="char:EOLhyphen"/>niſters) are formed as the Miniſters of Antichriſt.</p>
+               </sp>
+               <stage>The <hi>Mi.</hi> was againe denyed, and thus proved.</stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They that are Ordained in the manner, ſucceſſion, and power of Antichriſt, are Ordained as the miniſters of Antichriſt:</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But the Miniſters of London (Presbyterian-Miniſters) are Ordained in the manner, ſucceſſion, and power of Antichriſt,</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore the Miniſters of London (Presbyterian-Mi<g ref="char:EOLhyphen"/>niſters are Ordained as the Miniſters of Antichriſt.</p>
+                  <p>Mr. <hi>Cranf.</hi> denyed the <hi>Mi.</hi> Which containeth three Par<g ref="char:EOLhyphen"/>ticulars, and therefore three ſeverall Series of Sylogiſmes.</p>
+                  <p>Firſt for the manner this Syllogiſme was prepared.</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They that are commonly required to have had their Education in Schooles, to be furniſhed with Antichri<g ref="char:EOLhyphen"/>ſtian
+<pb n="9" facs="tcp:166179:8"/> Titles, to have Approbation from men of ſuch Ti<g ref="char:EOLhyphen"/>tles, and ſent from them, to be over a flock (often<g ref="char:EOLhyphen"/>times) whether the flock will or no: are Ordained in the manner of Antichriſt. (For the Pope likewiſe di<g ref="char:EOLhyphen"/>ſpenſeth ſometimes with Education, and Titles, and ſome flocks are not unwilling to receive Antichri<g ref="char:EOLhyphen"/>ſtians.)</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But the Miniſters of London (Presbyterian-Miniſters) are commonly required to have had their education in Schooles, to be furniſhed with Antichriſtian Titles, and approved by men of ſuch Titles, and by them ſent out to be over a flock (oftentimes) whether the flock will or no.</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore the Miniſters of London (Presbyterian-Mi<g ref="char:EOLhyphen"/>niſters) are Ordained in the manner of Antichriſt.</p>
+                  <p>But the Succeſſion was deſired to be proved, and therefore the Syllogiſmes for that followeth.</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They that have their Ordination by Succeſſion from Antichriſt, are Ordained in Succeſſion of Antichriſt:</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But the Miniſters of London (Presbiterian-Miniſters) have their Ordination by Succeſſion from Antichriſt,</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore the Miniſters of London (Presbyterian-Mi<g ref="char:EOLhyphen"/>niſters) are Ordained in the Succeſſion of Anti<g ref="char:EOLhyphen"/>chriſt.</p>
+               </sp>
+               <stage>The <hi>Mi.</hi> was denyed, and thus proved.</stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>If they have it by Succeſſion, and there were no other Succeſſion but from Antichriſt: then they have it by Succeſſion from Antichriſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But they had it by Succeſſion, and there was no other Succeſſion but from Antichriſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore they had their Ordination by ſucceſſion from Antichriſt.</p>
+                  <p>Here Dr. <hi>Chamb.</hi> deſired to expreſſe, that by Succeſſion he meant publick Succeſſion, allowed of by the Powers of the Nation: which Mr. <hi>Cranf.</hi> aſſented to, and denyed the <hi>Mi.</hi>
+                  </p>
+               </sp>
+               <stage>Which was thus proved.</stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They that had their Ordination from the Biſhops, had their Ordination by Succeſſion from Antichriſt.</p>
+               </sp>
+               <sp>
+                  <pb n="10" facs="tcp:166179:9"/>
+                  <speaker>Mi.</speaker>
+                  <p>But the Miniſters of London (Prsbyterian-Miniſters) had their Ordination from the Biſhops,</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore they had it by Succeſſion from Antichriſt.</p>
+                  <p>Here the Diſpute grew into ſome diſorder, but the thing to be proved was they that had their Ordination from Biſhops, had it from Antichriſt. As thus,</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>If Biſhops themſelves had their Ordination from Anti<g ref="char:EOLhyphen"/>chriſt, then they that had their Ordination from Bi<g ref="char:EOLhyphen"/>ſhops, had their Ordination by Succeſſion from Anti<g ref="char:EOLhyphen"/>chriſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But Biſhops themſelves had their Ordination from An<g ref="char:EOLhyphen"/>tichriſt,</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore they that had their Ordination from Biſhops had their Ordination by Succeſſion from Antichriſt.</p>
+               </sp>
+               <stage>Mr. <hi>Cranf. Minor.</hi>
+               </stage>
+               <sp>
+                  <speaker>Dr. <hi>Chamb.</hi>
+                  </speaker>
+                  <p>If from <hi>Rome,</hi> then from Antichriſt.</p>
+                  <p>But from <hi>Rome,</hi>
+                  </p>
+                  <p>Therefore from Antichriſt.</p>
+               </sp>
+               <stage>Mr. <hi>Cranf.</hi> deny the Conſequence.</stage>
+               <sp>
+                  <speaker>Dr. <hi>Chamb.</hi>
+                  </speaker>
+                  <p>
+                     <stage>replyed.</stage> If from <hi>Rome</hi> ſince Antichriſt was An<g ref="char:EOLhyphen"/>tichriſt, then if from <hi>Rome,</hi> then from Antichriſt:</p>
+                  <p>But from <hi>Rome</hi> ſince Antichriſt was Antichriſt,</p>
+                  <p>Therefore if from <hi>Rome,</hi> then from Antichriſt.</p>
+                  <p>Here Mr. <hi>Cranf.</hi> made a long digreſſion concerning the Church of <hi>Rome,</hi> and a Church in <hi>Rom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>:</hi> and ſaid, That</p>
+                  <p n="1">1 The Church of <hi>Rome</hi> was a true Church, till our ſepara<g ref="char:EOLhyphen"/>tion from it.</p>
+                  <p n="2">2 The Pope of <hi>Rome</hi> was Antichriſt theſe thouſand yeares.</p>
+                  <p n="3">3 A true Church in <hi>Rome</hi> till this day.</p>
+                  <p>Which when Dr. <hi>Chamb.</hi> read over, there were exceptions taken, that he had not read as Mr <hi>Cranf.</hi> ſpake. For they af<g ref="char:EOLhyphen"/>firmed he ſaid, there might be a true Church in <hi>Rome</hi> till this day; <hi>Nempe Fidelium,</hi>
+                  </p>
+                  <p>So Dr. <hi>Chamb.</hi> formed a Syllogiſme againſt it.</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>That Church which hath not the true Signes and ſeales of a true Church, is no true Church,</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But the Church of <hi>Rome</hi> hath not the true ſignes and ſeales of a true Church.</p>
+               </sp>
+               <sp>
+                  <pb n="11" facs="tcp:166179:9"/>
+                  <speaker>Con.</speaker>
+                  <p>Therefore it is no true Church.</p>
+                  <p>Mr, <hi>Cranf.</hi> ſaid you would faine draw me to believe it, but you ſhall not draw me to it with Horſes. The Church of <hi>Rome</hi> might be a true Church, though full of Errours: as a man may be a true man, though full of ſores and Ulcers. And though the Church were Erroneous, yet the Ordination might be true. As many other things may be true which the Church of <hi>Rome</hi> did hold. And that Ordination was not Antichriſti<g ref="char:EOLhyphen"/>an, till Proteſtants ſeparated from them.</p>
+                  <p>Dr. <hi>Chamb.</hi> then ſaid, they ſeparated from a true Church: and ſo the ſeparation made it falſe.</p>
+                  <p>Mr. <hi>Cranf.</hi> ſaid, they ſeparated from them, when they be<g ref="char:EOLhyphen"/>gan to be falſe.</p>
+                  <p>Dr. <hi>Chamb.</hi> offered to prove, they were not yet ſeparated from them.</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>If you did ſeparate, then either you did ſeparate from their Doctrine or their Power.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But you did ſeparate from neither,</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore you did not ſeparate.</p>
+                  <p>The complaint was that now the Queſtion was loſt, and they were gone to new Queſtions. So Dr. <hi>Chamb.</hi> returned to the Queſtion thus.</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>If no other publick Ordination but from the Pope ſince ſeparation, then from Antichriſt by your own con<g ref="char:EOLhyphen"/>feſſion.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But no Ordination but from the Pope.</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore from Antichriſt.</p>
+                  <p>Mr. <hi>Cranf.</hi> ſaid, The Church of <hi>Rome</hi> was a true Church ſtill. But becauſe Mr. <hi>Cranf.</hi> in his diſcourſe did either let fall ſometimes what he would not owne, or Dr. <hi>Chamb.</hi> was ſup<g ref="char:EOLhyphen"/>poſed to miſtake what Mr. <hi>Cranf.</hi> ſpake, it was deſired that Mr. <hi>Cranf.</hi> woud write down his own Words, and Poſitions, which he did, as followeth.</p>
+                  <p n="1">1 The Church of <hi>Rome</hi> was once a true Church of Chriſt.</p>
+                  <p n="2">2 In the Church of <hi>Rome</hi> there happened many corruptions in Doctrine.</p>
+                  <p n="3">3 The Biſhop of <hi>Rome,</hi> ſometimes a true Miniſter of the Church, uſurping a univerſal power over all Churches, became Antichriſt.</p>
+                  <p n="4">
+                     <pb n="12" facs="tcp:166179:10"/>4 After his uſurpation, there wanted not many (both Bi<g ref="char:EOLhyphen"/>ſhops and other Teachers) that oppoſed this uſurpation of the Pope till the Proteſtants departed from it.</p>
+                  <p n="5">5 There remained, oppreſſed by the Papacy, a true Church of Chriſt in <hi>Rome,</hi> till our ſeparation from them.</p>
+                  <p n="6">6 From this true Church (I ſay not pure Church) in <hi>Rome,</hi> our firſt Reformers had their Ordination, which was in the eſ<g ref="char:EOLhyphen"/>ſentials true, and from Chriſt.</p>
+                  <p n="7">7 The Pope of <hi>Rome,</hi> hath been Antichriſt, I believe about a thouſand yeares, that is ſo long as he hath uſurped power o<g ref="char:EOLhyphen"/>ver all Churches.</p>
+                  <p n="8">8 There was a true Miniſteriall Church in <hi>Rome,</hi> when we ſeparated from the Papacy.</p>
+                  <p>
+                     <hi>Ja. Cranford.</hi>
+                  </p>
+               </sp>
+               <stage>Dr. <hi>Chamb.</hi> argued to the laſt.</stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>If no Miniſterial Church in <hi>Rome,</hi> ſince the Pope was An<g ref="char:EOLhyphen"/>tichriſt, but what was from the power of the Pope, then there was no ſuch Church in <hi>Rome</hi> when you ſeparated.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But there was no Miniſteriall Church in <hi>Rome</hi> ſince the Pope was Antichriſt, but what was from the Power of the Pope,</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore there was no ſuch Church in <hi>Rome</hi> when you ſeparated.</p>
+               </sp>
+               <stage>
+                  <p>Mr. <hi>Cranf.</hi> ſaid, That all that the Pope doth is not Antichriſtian.</p>
+                  <p>Dr. <hi>Chamb.</hi> Replied,</p>
+               </stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>If the Pope were the root of Antichriſt, Then all Mi<g ref="char:EOLhyphen"/>niſteriall Officers from him were Antichriſtian.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But the Pope was the Root of Antichriſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore all Miniſteriall Officers from him were Anti<g ref="char:EOLhyphen"/>chriſtian as Branches.</p>
+                  <p>Mr. <hi>Cranf.</hi> denied the Conſequence. Though the Pope were the Root of Antichriſt, yet all Miniſterial Officers under him were not Antichriſtian.</p>
+                  <p>Dr. <hi>Chamb.</hi> then mentioned <hi>Mat.</hi> 7.16, 17, 18. But there being a diſorderly diſcourſe, he argued thus:</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>If all power derived from the Pope acknowledged his
+<pb n="13" facs="tcp:166179:10"/> power, as a power over all Churches, then they were all Antichriſtian.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But all power derived from the Pope, acknowledged the Popes power as a power over all Churches.</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore they were all Antichriſtian.</p>
+                  <p>Mr. <hi>Cranf.</hi> then fell into diſcourſe againe, and ſaid, That the <hi>Romane</hi> Church at the time when <hi>Luther</hi> ſeparated, was a true Church.</p>
+                  <p>Dr. <hi>Chamb.</hi> offered to prove, it was then no true Church.</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>Where there were no true Sacraments, there was no true Church.</p>
+               </sp>
+               <sp>
+                  <speaker>Min.</speaker>
+                  <p>But in the Church of <hi>Rome</hi> when <hi>Luther</hi> ſeparated, there were no true Sacraments.</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore then there was no true Church.</p>
+                  <p>The <hi>Minor</hi> was denyed. That in the Church of <hi>Rome</hi> when <hi>Luther</hi> ſeparated, there were true Sacraments.</p>
+               </sp>
+               <stage>Which was thus argued againſt.</stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>Where there was no true Baptiſme, there were no true Sacraments.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But in the Church of <hi>Rome,</hi> when <hi>Luther</hi> ſeparated there was no true Baptiſme.</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore in the Church of <hi>Rome,</hi> when <hi>Luther</hi> ſepara<g ref="char:EOLhyphen"/>ted, there were no true Sacraments.</p>
+               </sp>
+               <stage>Mr. <hi>Cranf.</hi> There was a true Baptiſme. Dr. <hi>Chamb.</hi>
+               </stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>Where it was not adminiſtred on the true ſubject, there was no true Baptiſme.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But in the Church of <hi>Rome,</hi> when <hi>Luther</hi> ſeparated, Bap<g ref="char:EOLhyphen"/>tiſme was not adminiſtred on the true ſubjects.</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore in the Church of <hi>Rome,</hi> when <hi>Luther</hi> ſepa<g ref="char:EOLhyphen"/>rated, there was no true Baptiſme.</p>
+                  <p>Mr. <hi>Cranf.</hi> denyed the <hi>Minor,</hi> which was to affirme, That in the Church of <hi>Rome</hi> when <hi>Luther</hi> ſeparated, Baptiſme was adminiſtred on the true Subjects.</p>
+               </sp>
+               <stage>Dr. <hi>Chamb.</hi> p<gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>ed his argument thus.</stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They that a<gap reason="illegible" resp="#KEYERS" extent="7 letters">
+                        <desc>〈7 letters〉</desc>
+                     </gap>red <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> on Believers and Repent<g ref="char:EOLhyphen"/>ers, admi<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>red <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the true ſubjects.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But the Ch<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>h of <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>me</hi> when <hi>Luther</hi> ſeparated, did
+<pb n="14" facs="tcp:166179:11"/> not adminiſter it on Believers and Repenters.</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore they did not adminiſter it on the true ſubjects.</p>
+               </sp>
+               <stage>
+                  <hi>Minor</hi> was to be proved.</stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They that adminiſter it on Children, adminiſter it not on Believers and Repenters:</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But the Church of <hi>Rome,</hi> when <hi>Luther</hi> ſeparated, admi<g ref="char:EOLhyphen"/>niſtred it to Children,</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore they did not adminiſter it on Believers and Repenters.</p>
+                  <p>Mr. <hi>Cranf.</hi> denyed the <hi>Major.</hi>
+                  </p>
+                  <p>Dr. <hi>Chamb.</hi> asked whether Children could believe and repent.</p>
+                  <p>Mr. <hi>Cranf.</hi> anſwered they had Faith and Repentance in their Parents.</p>
+                  <p>But he denyed the <hi>Major,</hi> becauſe, though the Church of <hi>Rome</hi> did adminiſter Baptiſme on Children ſuppoſing them a falſe ſubject, yet they might adminiſter it on o<g ref="char:EOLhyphen"/>thers alſo: And might adminiſter it both on true and falſe, and the adminiſtration on the falſe, did not hin<g ref="char:EOLhyphen"/>der, but it might be adminiſtred on the true alſo.</p>
+                  <p>Hereupon Dr. <hi>Chamb.</hi> undertook to prove, that they did adminiſter it to none but falſe, by the Syllogiſme fol<g ref="char:EOLhyphen"/>lowing.</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They that onely adminiſter Baptiſme to no believers or miſ-believers, to no repenters or miſ-repenters, admi<g ref="char:EOLhyphen"/>niſter it onely to the falſe ſubject.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But the Church of <hi>Rome</hi> adminiſter it onely to no belie<g ref="char:EOLhyphen"/>vers or miſ-believers, to no repenters or miſ-repenters. As Children and <hi>Romane</hi> Proſelites.</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore to none but falſe ſubjects.</p>
+                  <p>Here Dr. <hi>Chamb.</hi> was deſired to return to the firſt Queſti<g ref="char:EOLhyphen"/>on, and ſo he proceeded to this Argument following out of 2 <hi>Cor.</hi> 11.20.</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They that bring the flock into bondage, or devour them, or take of them, or exalt themſelves, or ſmite them on the face, are not the Miniſters of Jeſus Chriſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But Miniſters of London (Presbyterian-Miniſters) doe ſome or all of theſe,</p>
+               </sp>
+               <sp>
+                  <pb n="15" facs="tcp:166179:11"/>
+                  <speaker>Concluſ.</speaker>
+                  <p>Therefore Miniſters of London (Presbyterian-Mi<g ref="char:EOLhyphen"/>niſters are not the Miniſters of Jeſus Chriſt.</p>
+                  <p>Mr. <hi>Cranf.</hi> denyed both, but deſired Dr. <hi>Chamb.</hi> rather to prove the <hi>Major.</hi> Wherein Mr. <hi>Cranf.</hi> was to hold, that they who brought the flock into bondage, or devour them, or take of them, or exalt themſelves, or ſmite them on the face, are the Miniſters of Jeſus Chriſt.</p>
+                  <p>This was thought ſomewhat ſtrange, being the <hi>Major</hi> were the very words of the Text.</p>
+               </sp>
+               <stage>But Dr. <hi>Chamb.</hi> proceeded.</stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They that are Fooles are not the Miniſters of Jeſus Chriſt:</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But they that bring the flock into bondage, or devoure them, or take of them, or ſmite them on the face are fooles:</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore they that bring the flock into bondage, or devoure them, or take of them, or ſmite them on the face, are not the Miniſters of Jeſus Chriſt.</p>
+                  <stage>The <hi>Major</hi> was againe denyed.</stage>
+                  <p>Whereat Dr. <hi>Chamb.</hi> profeſſeth he was not a little ſtart<g ref="char:EOLhyphen"/>led, that Mr. <hi>Cranford.</hi> ſhould allow fooles to be the Mini<g ref="char:EOLhyphen"/>ſters of Jeſus Chriſt. For though the Miniſters of Jeſus Chriſt may be ſometimes accounted fooles, yet he could not imagine that fooles ſhould be accounted Miniſters of Jeſus Chriſt, but this Syllogiſme followed.</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They that are not Qualified as, 1 <hi>Tim.</hi> 3. and <hi>Tit.</hi> 1. are no Miniſters of Jeſus Chriſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But fooles are not quallified as, 1 <hi>Tim.</hi> 3. and <hi>Tit.</hi> 1.</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore they are no Miniſters of Jeſus Chriſt.</p>
+                  <p>Mr. <hi>Cranf.</hi> here was pleaſed to confirm the Text by way of reſtraint onely to the wicked foole, though the quallificati<g ref="char:EOLhyphen"/>ons require a vindication from Idiotiſme alſo. As (Verſ. 2.) <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. and Verſ. 4. and 6. of 1 <hi>Tim.</hi> 3. and Verſ. 9. of <hi>Tit.</hi> 1.</p>
+                  <p>And therefore Mr. <hi>Cranf.</hi> affirmed, that men may be wicked, yea falſe, and yet the true Miniſters of Jeſus Chriſt.</p>
+                  <p>Whereupon Dr. <hi>Chamb.</hi> ſaid, it was true that the Devils themſelves in ſome ſence may be ſaid to be the Miniſters of
+<pb n="16" facs="tcp:166179:12"/> Chriſt in executing his judgments, and all the wicked alſo in ſuch a large ſence, which if that were it which Mr. <hi>Cranf.</hi> con<g ref="char:EOLhyphen"/>tended for, it were granted him. Whereupon Mr. <hi>Cranford</hi> (<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ronically) put off his hat, and made a legg, and ſaid, we thank you Mr. Doctor, we thank you. Dr. <hi>Chamb.</hi> with the ſame pleaſantneſſe bad him, much good might it do him.</p>
+                  <p>But ſaid he, do you allow wicked men to be Presbyterian-Miniſters?</p>
+                  <p>No, ſaid Mr. <hi>Cranf,</hi> we would hinder them, and forbid them.</p>
+                  <p>Then you would forbid the true Miniſters of Jeſus Chriſt, (ſaid Dr. <hi>Chamb.</hi>) by your own ſaying.</p>
+                  <p>I ſaid no ſuch matter, (ſaid Mr. <hi>Cranf.</hi>)</p>
+                  <p>You ſaid, that true Miniſters of Chriſt might be wicked (ſaid Dr. <hi>Chamb.</hi>)</p>
+                  <p>Said Mr. <hi>Cranf.</hi> They ceaſe to be Miniſters of Chriſt when we forbid them.</p>
+                  <p>Then, till then (ſaid Dr. <hi>Chamb.</hi>) you affirme they are ſo.</p>
+                  <p>Yea, (ſaid Mr. <hi>Cranf.</hi>)</p>
+                  <p>Then Dr. <hi>Chamb.</hi> appealed to the Auditory.</p>
+                  <p>But (ſaid Dr. <hi>Chamb.</hi>) why do you not forbid them?</p>
+                  <p>That is our grief, (ſaid Mr. <hi>Cranf.</hi>) we would, but have no power.</p>
+               </sp>
+               <stage>Whereupon Dr. <hi>Chamb.</hi> brought this Syllogiſme.</stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>Miniſters of Chriſt want not Power.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But Presbyterian-Miniſters want Power,</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore they are no Miniſters of Chriſt.</p>
+                  <p>Mr. <hi>Cranf.</hi> anſwered, <hi>Habent Poteſtatem, non Potentiam,</hi> which was left to thoſe that could cut a thred between them.</p>
+                  <p>The third Argument was from <hi>Mark,</hi> 9.39. and <hi>Luke</hi> 9. <hi>verſ.</hi> 49</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They, who forbid what Chriſt hath commanded not to be forbidden, are no true Miniſters of Jeſus Chriſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But Miniſters of London (Presbyterian-Miniſters) forbid what Chriſt hath commanded not to be for<g ref="char:EOLhyphen"/>bidden,</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore the Miniſters of London (Presbyterian-Mini<g ref="char:EOLhyphen"/>ſters)
+<pb n="17" facs="tcp:166179:12"/> are no true Miniſters of Jeſus Chriſt.</p>
+                  <p>Mr. <hi>Cranf.</hi> denyed the <hi>Major,</hi> which was to affirme, that they, who forbid what Chriſt hath commanded not to be for<g ref="char:EOLhyphen"/>bidden, are the true Miniſters of Jeſus Chriſt: and inſtan<g ref="char:EOLhyphen"/>ced <hi>Gal.</hi> 2. and <hi>Act.</hi> 11. Which Dr. <hi>Chamb.</hi> referred to the Auditory. Whereupon Mr. <hi>Sute</hi> was pleaſed to ſide with Mr. <hi>Cranf.</hi> in the Quotations. But Dr <hi>Chamb.</hi> asked, where any command of Chriſt was there forbidden? For though <hi>Peter</hi> were reproved in both places: yet neither <hi>Peter,</hi> nor the A<g ref="char:EOLhyphen"/>poſtles, did there forbid any of the commands of Chriſt. The Apoſtles (indeed) did examine <hi>Peter</hi> about his going unto the <hi>Gentiles,</hi> but upon <hi>Peters</hi> Relation, were ſo farre from forbid<g ref="char:EOLhyphen"/>ding, that they held their peace, and gloryfied God. <hi>Act.</hi> 11. <hi>verſ.</hi> 18.</p>
+                  <p>The time being ſomewhat late, that meeting broke up, ending in Prayer. And Mr. <hi>Cranf.</hi> appointed the next meeting on the ſixth of <hi>April,</hi> 1652.</p>
+               </sp>
+            </div>
+            <div n="3" type="meeting">
+               <pb n="18" facs="tcp:166179:13"/>
+               <head>The Third meeting was on the Sixth of <hi>APRIL, 1652.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">A</seg>Fter Prayer, Mr. <hi>Cranf.</hi> made a Repetition <hi>(memoriter)</hi> of what had paſt, wherein ma<g ref="char:EOLhyphen"/>ny things were ſpoken different from what had been ſaid: Whereupon Dr. <hi>Chamb.</hi> was occaſioned to read what had paſt, that ſo Mr. <hi>Cranford</hi>'s miſtakes might be rectified. In the Repetition (by way of Juſtification of the ſucceſſive Ordination from <hi>Rome</hi>) Mr. <hi>Cranf.</hi> decla<g ref="char:EOLhyphen"/>red, that the Oath which every Miniſter took in Ordination under the Pope, was, <hi>To preach the Truth according to the Goſpel.</hi> Where men may ſee how uncertaine that Religion is that is founded upon humane Oathes, and Proteſtations.</p>
+               <p>The Queſtion was as formerly.</p>
+               <p>
+                  <hi>Whether Miniſters of London</hi> (Presbyterian-Miniſters) <hi>be the Miniſters of Jeſus Chriſt?</hi>
+               </p>
+               <stage>Dr. <hi>Chamb.</hi> began the Diſpute with this Syllogiſme.</stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They that forbid what Chriſt hath commanded not to be forbidden, are not the Miniſters of Jeſus Chriſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But the Miniſters of London (Presbyterian-Miniſters) forbid what Chriſt hath commanded not to be for<g ref="char:EOLhyphen"/>bidden,</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore Miniſters of London (Presbyterian-Mini<g ref="char:EOLhyphen"/>ſters) are not the Miniſters of Jeſus Chriſt.</p>
+                  <p>Mr. <hi>Cranf.</hi> ſaid the <hi>Major</hi> was Nonſence.</p>
+                  <p>Dr. <hi>Chamb.</hi> appealed to the Auditory.</p>
+                  <p>Then Mr. <hi>Cranf.</hi> denyed the <hi>Major</hi> and <hi>Minor.</hi> The <hi>Ma<g ref="char:EOLhyphen"/>jor</hi>
+                     <pb n="19" facs="tcp:166179:13"/> if it were affirmed, that Presbyterian Miniſters, did pur<g ref="char:EOLhyphen"/>poſely and malitiouſly forbid, what Chriſt hath commanded not to be forbidden.</p>
+                  <p>The <hi>Minor,</hi> if with reſtrictions mentioned, to wit, that Presbyterian Miniſters do not forbid any one <hi>in Eccleſia con<g ref="char:EOLhyphen"/>ſtituenda</hi> or <hi>coufuſa.</hi>
+                  </p>
+                  <p>Dr. <hi>Chamb.</hi> would not urge the <hi>Major,</hi> as that Presbyterian Miniſters did purpoſely and malitiouſly, therefore, forbid any thing becauſe it was the command of Chriſt, though igno<g ref="char:EOLhyphen"/>rance it ſelf doth not excuſe <hi>a toto, ſed a tanto.</hi> For 2 <hi>Theſ.</hi> 1.8. the vengeance is on them alſo that knew not God. And di<g ref="char:EOLhyphen"/>vers other places.</p>
+               </sp>
+               <stage>Therefore the <hi>Min.</hi> was proceeded in.</stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They that forbid Preaching by true Miniſters of Jeſus Chriſt in a true Church, forbid what Chriſt hath com<g ref="char:EOLhyphen"/>manded not to be forbidden.</p>
+               </sp>
+               <sp>
+                  <speaker>Min.</speaker>
+                  <p>But Miniſters of London (Presbyterian Miniſters) for<g ref="char:EOLhyphen"/>bid Preaching by true Miniſters of Chriſt in a true Church</p>
+               </sp>
+               <sp>
+                  <speaker>Concluſ.</speaker>
+                  <p>Therefore Miniſters of London (Presbyterian Mi<g ref="char:EOLhyphen"/>niſters) forbid, what Chriſt hath commanded not to be forbidden.</p>
+                  <p>Saith Mr. <hi>Cranf.</hi> you ſhall never prove the <hi>Minor</hi> whileſt your head is on your ſhoulders.</p>
+                  <p>Dr. <hi>Chamb.</hi> replied, I hope my head may continue on my ſhoulders without offence to any, and yet I ſhall prove the <hi>Minor.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They that forbid gifted men Ordained by a true Church to Preach in a true Church, forbid Preaching by true Miniſters in a true Church.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But Miniſters of London (Presbyterian Miniſters) for<g ref="char:EOLhyphen"/>bid gifted men, Ordained by a true Church, to Preach in a true Churh.</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore Miniſters of London (Presbyterian Mini<g ref="char:EOLhyphen"/>ſters) forbid Preaching by true Miniſters, in a true Church.</p>
+                  <p>Mr. <hi>Cranf.</hi> denyed the <hi>Major,</hi> if in Eccleſia Fidelium:</p>
+                  <p>The <hi>Minor,</hi> if <hi>in Eccleſia Organica.</hi>
+                  </p>
+                  <pb n="20" facs="tcp:166179:14"/>
+                  <p>Dr. <hi>Chamb.</hi> here took the liberty to make a ſhort diſcourſe concerning a Church, and that both in regard that Mr. <hi>Cranf.</hi> did conſtantly run into divers diſcourſes between ſeveral Syl<g ref="char:EOLhyphen"/>logyſmes, therefore Dr. <hi>Chamb.</hi> might take that liberty once, and becauſe that now there was ſuch an occaſion given to ex<g ref="char:EOLhyphen"/>plain that word which hath occaſioned ſo many great con<g ref="char:EOLhyphen"/>troverſies, and did now neceſſarily require an explanation, as might appeare by Mr. <hi>Cranford</hi>'s diſtinguiſhing upon the word.</p>
+                  <p>Therefore in the firſt place Dr <hi>Chamb.</hi> ſhewed, that the word ought to be explained from 1 <hi>Cor.</hi> 14.11. And that for want of explaining this word, and the word Biſhop, and Presbyter, and Deacon, and the like, ſo many Barbarous Warrs and Actions have been in the world.</p>
+                  <p>The word Church is from the <hi>Saxon,</hi> Kirk, as the <hi>Scots</hi> yet pronounce it. It is thought to be derived from the <hi>Greek</hi> word <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, a derivative from <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. (Lord) as dedicated to the Lord. And the place where the Lords of the Senate did meet in <hi>Athens,</hi> was called <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> (a Court <hi>Comitia.</hi>) But Church amongſt us, is ſuppoſed the tranſlation of the Originall word <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. So that Church ſhould ſignifie to us, what <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> doth ſignifie to the <hi>Grecians.</hi> Now <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, from <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>&amp;</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, (to call forth) doth ſignifie a company of People called to<g ref="char:EOLhyphen"/>gether from among other People and ſo, any Aſſembly what<g ref="char:EOLhyphen"/>ſoever, that are called together, as the Interpreters themſelves have plainly declared, by interpreting the word in <hi>Act.</hi> 19.25. an Aſſembly, though it were not to the worſhip of God. And whether it were a lawfull aſſembly, (<hi>verſ.</hi> 39.) or unlawfull (<hi>verſ.</hi> 32 41.) But by way of excellency, becauſe no Aſſem<g ref="char:EOLhyphen"/>bly ſo worthy as that which is called together to the worſhip of God: Therefore it is ordinarily taken for ſuch, wherein we muſt alſo diſtinguiſh between the Church of Chriſt, and a Church of Chriſt. The Church comprehends all the faith<g ref="char:EOLhyphen"/>full Saints from the beginning of the World to the end. As <hi>Epheſ.</hi> 1.22. and 3.21. and 5.23. <hi>&amp;c. Col.</hi> 1.18.24. and 1 <hi>Cor.</hi> 12.28. <hi>Heb.</hi> 12.23.</p>
+                  <p>A Church of Chriſt alſo is taken for any Church of Chriſt reſpectively, as <hi>Mat.</hi> 18.17. and 1 <hi>Cor.</hi> 14. and 4.17. <hi>&amp;c.</hi>
+                     <pb n="21" facs="tcp:166179:14"/> 1 <hi>Cor.</hi> 7.17. and 11.16.15.9. <hi>Philip.</hi> 3.6.</p>
+                  <p>And it hath alſo ſeverall other Appellations, as Houſe, City, Body, Spouſe, and Family, or definitively either: And that an uncertain providentiall Aſſembly or meeting; as <hi>Mat.</hi> 18.20. <hi>Whereſoever two or three are gathered together in the name of Christ.</hi> In which ſenſe Mr. <hi>Cranf.</hi> diſtinguiſheth it, <hi>Eccleſia Fidelium.</hi> Or more ſetled and conſtant, which likewiſe are diſtinguiſted, by Times, Nations, or Places.</p>
+                  <p>Diſtinguiſhed by Times, we read, <hi>Act.</hi> 7.38. the Church in the Wilderneſſe.</p>
+                  <p>And, by Nations, <hi>Rom.</hi> 16.4. all the Churches of the <hi>Gentiles.</hi>
+                  </p>
+                  <p>By Places, as Countries, (α) Kingdomes, (β) Provin<g ref="char:EOLhyphen"/>ces. (γ)</p>
+                  <p>By Countrys, (α) 1 <hi>Cor.</hi> 16.19. Church of <hi>Aſia.</hi>
+                  </p>
+                  <p>And, by Kingdomes, (β) 2 <hi>Cor.</hi> 8.1. of <hi>Macedonia.</hi>
+                  </p>
+                  <p>And, by Provinces, (γ) as <hi>Galatia.</hi> 1 <hi>Cor.</hi> 16.1. <hi>Gal.</hi> 1.2. and <hi>Judea. Gal.</hi> 1.22.</p>
+                  <p>Citys of <hi>Corinth,</hi> 1 <hi>Cor.</hi> 12. and 2 <hi>Cor.</hi> 1.1. <hi>Epheſus. Smyr<g ref="char:EOLhyphen"/>na, Pergamus, Thyatyra, Sardis, Philadelphia, Laodicea.</hi> Revel. 1.11.</p>
+                  <p>And Houſes, as <hi>Aquila</hi> and <hi>Priſſcilla,</hi> 1 <hi>Cor.</hi> 16.19. <hi>Rom.</hi> 16.3, 5. and <hi>Nymphas,</hi> Col. 4.15.</p>
+                  <p>The Church of Chriſt is then, and ſo long, the Church of Chriſt, as ſhe ſaith, and doth, what Chriſt gave her to ſay and doe, even as Chriſt himſelf, <hi>John,</hi> 7.17. and 8.26, 28. and 12.5. and 14.10, 24. and 5.19.30. And when ſhe ſaith, or doth otherwiſe, ſhe ſpeaketh, or playeth the Harlot in that particular.</p>
+                  <p>By Organical was meant a definite ſetled Church of Chriſt, compleated with Officers, as a body with members 1 <hi>Cor.</hi> 12.12.</p>
+                  <p>Here Dr. <hi>Chamb.</hi> being called upon to prove, that Presby<g ref="char:EOLhyphen"/>ters did forbid Miniſters of a true Church.</p>
+                  <p>He proved it by this Syllogiſme.</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They that forbid Miniſters Ordained by the Presbytery of Baptiſed Churches forbid Miniſters of a true Church.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But Miniſters of London (Presbyterian Miniſters) for<g ref="char:EOLhyphen"/>bid
+<pb n="22" facs="tcp:166179:15"/> Miniſters Ordained by the Presbytery of Baptiſed Churches.</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore Miniſters of London (Prebyterian Miniſters) forbid Miniſters of a true Church.</p>
+                  <p>Mr. <hi>Cranf.</hi> denyed the <hi>Major,</hi> becauſe no true Presbytery, and becauſe no true Church: but deſired that the laſt ſhould be proved.</p>
+               </sp>
+               <stage>To which Dr. <hi>Chamb.</hi> argued.</stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They that have the true Marks of a true Church, are a true Church.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But Baptiſed Churches have the true Marks of a true Church,</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore they are a true Church.</p>
+                  <p>Mr. <hi>Cranf.</hi> denyed the <hi>Minor,</hi> which was thus proved.</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They that have true Preaching of the Word, and true Adminiſtration of the Sacraments, have the true Marks of a true Church:</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But Baptiſed Churches have true Preaching of the Word, and true Adminiſtration of Sacraments.</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore they have the true Marks of a true Church.</p>
+                  <p>Mr. <hi>Cranf.</hi> denyed the <hi>Minor.</hi> That they neither had true Preaching of the Word, nor true Adminiſtration of the Sa<g ref="char:EOLhyphen"/>cramets.</p>
+                  <p>Dr. <hi>Chamb.</hi> asked which he ſhould prove?</p>
+                  <p>Mr. <hi>Cranf.</hi> bad him prove the true Adminiſtration of Sacraments.</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They that have the true Adminiſtration of Baptiſme and the Lords Supper, have the true Adminiſtration of Sacraments.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But Baptized Churches have the true Adminiſtration of Baptiſme and the Lords Supper:</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore Baptized Churches have the true Adminiſtra<g ref="char:EOLhyphen"/>tion of the Sacraments.</p>
+                  <p>Mr. <hi>Cranf.</hi> denyed the <hi>Mi.</hi> but bad him prove Baptiſme.</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They that have the Adminiſtration of Baptiſme in the true manner, and on the true Subject, have the true Ad<g ref="char:EOLhyphen"/>miniſtration of Baptiſme.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But Baptized Churches have the Adminiſtration of
+<pb n="23" facs="tcp:166179:15"/> Baptiſme in the true manner and on the true Subjects.</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore Baptized Churches have the true Admini<g ref="char:EOLhyphen"/>ſtration of Baptiſme.</p>
+                  <p>Mr. <hi>Cranf.</hi> denyed the <hi>Mi.</hi> Dr. <hi>Chamb.</hi> asked whether he ſhould prove firſt the manner, or the ſubject? Mr. <hi>Cranf.</hi> ſaid any, which he would. Then (ſaid Dr. <hi>Chamb.</hi>) Firſt Ile prove the manner and then the Subject.</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They that Adminiſter Baptiſme in the ſame Manner as it was Adminiſtred unto Chriſt <hi>Matth.</hi> 13.16. And as <hi>Philip</hi> Adminiſtred it to the <hi>Eunuch, (Act.</hi> 8.38.) have the true manner of Adminiſtration of Baptiſme.</p>
+                  <p>Mr. <hi>Cranf.</hi> cryed out, and ſome with him, prove the ſub<g ref="char:EOLhyphen"/>ject for that is deſired by ſome here.</p>
+               </sp>
+               <stage>Then Dr. <hi>Chamb.</hi> proceeded.</stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They that Adminiſter Baptiſme on Beleevers and Re<g ref="char:EOLhyphen"/>penters, Adminiſter Baptiſme on the true Subjects.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But Baptized Churches Adminiſter Baptiſme on Repen<g ref="char:EOLhyphen"/>ters and Believers.</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore Baptized Churches Adminiſter it on the true Subject.</p>
+               </sp>
+               <stage>The <hi>Mi.</hi> was denyed, and thus proved.</stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They that Adminiſter Baptiſme upon thoſe that confeſſe their Sins, and profeſſe their Faith, Adminiſter Bap<g ref="char:EOLhyphen"/>tiſme on the true Subject.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But Baptized Churches Adminiſter it upon thoſe that confeſſe their Sins, and profeſſe their Faith.</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore Baptized Churches Adminiſter Baptiſme on the true Subject.</p>
+                  <p>Mr. <hi>Cranf.</hi> denyed the <hi>Minor,</hi> and ſaid, they do not Bap<g ref="char:EOLhyphen"/>tize ſuch as do confeſſe their Sins, and profeſſe their Faith.</p>
+                  <p>Dr. <hi>Cham.</hi> ſaid, that might be atteſted by any that ever were preſent at their Baptiſme. Beſides it were againſt their very Principles if they ſhould not do ſo.</p>
+                  <p>Saith Mr. <hi>Cranf.</hi> I ſay they do not Baptize Believers and Repenters.</p>
+                  <p>Saith Dr. <hi>Chamb.</hi> now you go back to the former Syllo<g ref="char:EOLhyphen"/>giſme.</p>
+                  <p>Mr. <hi>Cranf.</hi> ſaid, they do not Baptize Believers and Re<g ref="char:EOLhyphen"/>penters, but Renegadoes.</p>
+                  <pb n="24" facs="tcp:166179:16"/>
+                  <p>Dr. <hi>Chamb.</hi> ſaid, I gave no ill language, but uſed the words of the Scripture, and I hope you will not be angry with the language of the holy Ghoſt, when I muſt uſe it in argument.</p>
+                  <p>Renegado is language of Scripture ſaith Mr. <hi>Cranf.</hi>
+                  </p>
+                  <p>Where ſaid Dr. <hi>Chamberlen?</hi> Mr. <hi>Cranf.</hi> ſaid becauſe it ſig<g ref="char:EOLhyphen"/>nified Apoſtate. Said Dr. <hi>Cha.</hi> Then why did you not rather uſe that Word.</p>
+                  <p>The debate here made Dr. <hi>Chamb.</hi> forget to take notice how in denying the Baptiſme of Believers and Repenters, Mr. <hi>Cranf.</hi> denyed the <hi>Concluſion.</hi> But he proceeded to prove that they did Baptize Believers and Repenters.</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They that baptize ſuch as ſhall be ſaved, baptize belie<g ref="char:EOLhyphen"/>vers and repenters.</p>
+               </sp>
+               <stage>
+                  <hi>Minor,</hi> But baptized Churches baptize ſuch as ſhall be ſaved,</stage>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore they baptized believers and repenters.</p>
+                  <p>Mr <hi>Cranf.</hi> denyed the <hi>Major.</hi>
+                  </p>
+                  <p>Dr. <hi>Chamb.</hi> urged <hi>Mark,</hi> 16.16. <hi>Whoſoever believeth and is baptized, ſhall be ſaved.</hi>
+                  </p>
+                  <p>Mr. <hi>Cranf.</hi> denyed it.</p>
+                  <p>Dr. <hi>Chamb.</hi> replied, <hi>Contra Principia negantem, non est diſpu<g ref="char:EOLhyphen"/>tandum.</hi> Saith Mr. <hi>Cranf.</hi> you are to prove it.</p>
+               </sp>
+               <stage>Dr <hi>Chamb.</hi> then argued thus.</stage>
+               <sp>
+                  <speaker>Major.</speaker>
+                  <p>They that baptize ſuch as confeſſe with their mouth the Lord Jeſus, and believe in their heart that God hath raiſed him from the dead, (<hi>Rom.</hi> 10.) baptize ſuch as ſhall be ſaved.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But baptized Churches, baptize ſuch as confeſſe with their mouth, the Lord Jeſus, and believe with their heart that God hath raiſed him from the dead.</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore baptized Churches baptize ſuch as ſhall be ſaved.</p>
+                  <p>Mr. <hi>Cr.</hi> and ſome of his Party began to deride and ſay this was <hi>in gyro, idem, per idem.</hi> All that are ſaved, confeſſe and believe. All that confeſſe and believe, are ſaved.</p>
+                  <p>Said Dr. <hi>Chamb.</hi> it is the greater truth in being reciprocal, according to all the rules of truth. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+                  <p>With this the Company ſeemed to acquieſce, in continua<g ref="char:EOLhyphen"/>tion
+<pb n="25" facs="tcp:166179:16"/> of this promiſcuous diſcourſe. Mr. <hi>Cranf</hi> uſed the word Renegado againe, and ſaid, that baptized Churches, baptized ſuch as denyed the Faith, not ſuch as profeſſed the Faith, there<g ref="char:EOLhyphen"/>fore we were all Renegadoes.</p>
+                  <p>Dr. <hi>Chamb.</hi> replied I ſhall prove you ſo.</p>
+                  <p>Mr. <hi>Cranf.</hi> bid him do.</p>
+               </sp>
+               <stage>Dr. <hi>Chamb.</hi>
+               </stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They that practiſe, what they neither have command nor example for, practiſe what they ſhould not.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But you who ſprinkle Infants, practiſe what you neither have command nor example for.</p>
+                  <p>Mr. <hi>Cranf.</hi> cried out, is this to prove us Renegadoes. Make your <hi>Concluſion.</hi>
+                  </p>
+                  <p>Said Dr. <hi>Chamb.</hi> I was loath to uſe words of provocation, and that are not written. but Mr <hi>Cranf.</hi> continuing in deriſion, Dr. <hi>Chamb.</hi> ſaid then Ile prove you Renegadoes.</p>
+                  <p>They that ſpeak Lyes in Hipocriſie, are Renegadoes:</p>
+                  <p>But you ſpeak Lyes in Hypocriſie.</p>
+                  <p>Here the meeting broke up abruptly.</p>
+               </sp>
+            </div>
+            <div n="4" type="meeting">
+               <pb n="26" facs="tcp:166179:17"/>
+               <head>The laſt meeting between Mr. <hi>Cranford,</hi> and Dr. <hi>Chamberlen,</hi> at Mr. <hi>Webbs</hi> houſe, at <hi>Bartholomew</hi> Lane end, was on the 13. of <hi>April,</hi> 1652.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Queſtion was ſtill, <hi>Whether Miniſters of London</hi> (Presbyterian Miniſters) <hi>were the Miniſters of Jeſus Chriſt?</hi>
+               </p>
+               <p>Mr. <hi>Cranf.</hi> (as before) Reſpondent.</p>
+               <p>Dr. <hi>Chamb.</hi> Opponent.</p>
+               <p>After Prayer (as formerly) the Diſpute be<g ref="char:EOLhyphen"/>gan in writing, being ſo agreed the time before.</p>
+               <stage>Dr. <hi>Chamb.</hi> began his Argument thus,</stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They that are Miniſters of Jeſus Chriſt, are Ordained by Jeſus Chriſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But Presbyterian Miniſters of London are not Ordained by Jeſus Chriſt:</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore they are not Miniſters of Jeſus Chriſt.</p>
+                  <p>Mr. <hi>Cranf. Negatur Minor.</hi>
+                  </p>
+                  <p>The Miniſters are Ordained by Jeſus Chriſt, Mediately.</p>
+               </sp>
+               <stage>Dr. <hi>Chamb.</hi>
+               </stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They that are Ordained by Antichriſt, are not Ordain<g ref="char:EOLhyphen"/>ed by Jeſus Chriſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But Presbyterian Miniſters of London are Ordained by Antichriſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore they are not Ordained by Jeſus Chriſt.</p>
+                  <p>Mr. <hi>Cranf Negatur Minor.</hi>
+                  </p>
+               </sp>
+               <stage>
+                  <pb n="25" facs="tcp:166179:17" rendition="simple:additions"/>Dr. <hi>Chamb.</hi>
+               </stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They that are Ordained by the Pope, within theſe thou<g ref="char:EOLhyphen"/>ſand yeares, are Ordained by Antichriſt.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But Presbyterian Miniſters of London are Ordained by the Pope within theſe thouſand yeares.</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore they are Ordained by Antichriſt.</p>
+                  <p>Mr. <hi>Cranf. Negatur Minor.</hi>
+                  </p>
+               </sp>
+               <stage>Dr. <hi>Chamb.</hi>
+               </stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They that are ordained by thoſe who were Ordained by the Pope within theſe thouſand yeares, are Ordained by the Pope within theſe thouſand yeares.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But Presbyterian Miniſters of London, are Ordained by thoſe who were Ordained by the Pope within theſe thouſand yeares.</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore they are Ordained by the Pope within theſe thouſand yeares.</p>
+                  <p>Mr. <hi>Cranf. Negatur Minor.</hi>
+                  </p>
+               </sp>
+               <stage>Dr. <hi>Chamb.</hi>
+               </stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>They who were Ordained by the Biſhops of <hi>England,</hi> and their Succeſſours within theſe thouſand yeares, are Ordained by thoſe who were Ordained by the Pope within theſe thouſand yeares.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But Presbyterian Miniſters of London are Ordained by Biſhops of <hi>England</hi> and their Succeſſors within theſe thouſand yeares.</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore they are Ordained by thoſe who were Or<g ref="char:EOLhyphen"/>dained by the Pope within theſe thouſand yeares.</p>
+                  <p>Mr. <hi>Cranf. Negatur Major.</hi>
+                     <stage>Dr. <hi>Chamb.</hi>
+                     </stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>If they were Ordained by the Power, or Miniſters of the Pope, <hi>&amp;c.</hi> then they were Ordained by the Pope <hi>&amp;c.</hi>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But they were Ordained by the Power, or Miniſters of the Pope within theſe thouſand yeares.</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore they were Ordained by the Pope within theſe thouſand yeares.</p>
+                  <p>Mr. <hi>Cranf. Negat. Min.</hi>
+                     <stage>Dr. <hi>Chamb.</hi>
+                     </stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>If the Biſhops of <hi>England</hi> within theſe thouſand years, were not Ordained by the Power nor Miniſters of the Pope, within theſe thouſand yeares. Then there were
+<pb n="28" facs="tcp:166179:18"/> ſome Biſhops in King <hi>Henry</hi> 7. and K. <hi>Hen.</hi> 8. dayes neither Ordained by the Pope, nor Miniſters of the Pope, within theſe thouſand yeares.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But there were no ſuch Biſhops in K. <hi>Hen.</hi> 7. nor King <hi>Hen.</hi> 8. dayes.</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore they were Ordained by the Power, or Mini<g ref="char:EOLhyphen"/>ſters, of the Pope within theſe thouſand yeares.</p>
+                  <p>Mr. <hi>Cranf. Negat. Mi.</hi>
+                     <stage>Dr. <hi>Chamb.</hi> Name any.</stage>
+                  </p>
+                  <p>Mr. <hi>Cranf.</hi> do you prove there were none.</p>
+               </sp>
+               <stage>Dr. <hi>Chamb.</hi>
+               </stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>If there were any ſuch, then either they were allowed, or diſalowed.</p>
+               </sp>
+               <sp>
+                  <speaker>Min.</speaker>
+                  <p>But there were neither any allowed, nor diſallowed, that were ſuch.</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore there were none ſuch.</p>
+                  <p>Mr. <hi>Cranf. Negat. Minor.</hi> None of the allowed Miniſters were Ordained by the Pope.
+<stage>Dr. <hi>Chamb.</hi>
+                     </stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>If the Pope had power at that time to place, and diſplace whom he pleaſed, then they were Ordained by the Pope.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But the Pope had power to place and diſplace, whom he pleaſed.</p>
+               </sp>
+               <sp>
+                  <speaker>Con.</speaker>
+                  <p>Therefore they were Ordained by the Pope.</p>
+                  <p>Mr. <hi>Cranf. Negat. conſequentia, &amp; Minor eſt falſa.</hi>
+                  </p>
+                  <p>Dr. <hi>Chamb.</hi> Power of Ordination, you grant, is Approba<g ref="char:EOLhyphen"/>tion and Impoſition of hands.</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>If their placing and diſplacing, were a conſequence of their Ordination, then the conſequence is true.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But their placing and diſplacing, was a conſequence of their Ordination.</p>
+                  <p>Mr. <hi>Cranf. Negat. conſequentia</hi>
+                     <stage>Dr. <hi>Chamb.</hi>
+                     </stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>If the Pope had power of placing and diſplacing of Biſhops, then he had power of their Ordination.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But the Pope had power, of placing and diſplacing of Biſhops.</p>
+                  <p>If placing and diſplacing of Biſhops, be greater then their Ordination, then the Pope who did place and diſplace did al<g ref="char:EOLhyphen"/>ſo Ordaine.</p>
+                  <p>Mr. <hi>Cranford, Negatur conſequentia.</hi>
+                  </p>
+                  <pb n="62" facs="tcp:166179:18"/>
+                  <p>The Civil Magiſtrate may remove or diſplace Miniſters, but may not Ordaine Miniſters.</p>
+                  <p>To place and diſplace, is not greater then to Ordaine.</p>
+               </sp>
+               <stage>Dr. <hi>Chamb.</hi>
+               </stage>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>If what the Pope did, he did it as an Officer of the Church, and it was ſo publickly acknowledged, then the conſe<g ref="char:EOLhyphen"/>quence is true.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But what the Pope did, he did it as an Officer of the Church, and it was ſo publickly acknowledged.</p>
+                  <p>Mr. <hi>Cranf. Negat. conſequentia.</hi>
+                  </p>
+                  <p>Though the Pope had power to do it, he did not do it.</p>
+                  <p>Some diſcourſes, as betwwen all the reſt of the latter Syl<g ref="char:EOLhyphen"/>logiſme, interrupted the clear diſpute, and then Dr. <hi>Chamb.</hi> followed with this argument to the diſcourſe that was.</p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>If all the particular parts and faculties of the Church of <hi>England,</hi> were under the power and Miniſtry of the Pope of <hi>Rome,</hi> then Biſhops were Ordained by the power of the Pope of <hi>Rome.</hi>
+                  </p>
+                  <p>Mr. <hi>Cranf. Negat. conſequentia.</hi>
+                     <stage>Dr. <hi>Chamb.</hi>
+                     </stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Ma.</speaker>
+                  <p>If ſo, then Ordination is no part or faculty of the Church.</p>
+               </sp>
+               <sp>
+                  <speaker>Mi.</speaker>
+                  <p>But Ordination is a part. <stage>Ergo.</stage>
+                  </p>
+               </sp>
+               <sp>
+                  <speaker>Mr. <hi>Cranf.</hi>
+                  </speaker>
+                  <p>
+                     <hi>Ne. conſequentia, Minor etiam eſt falſa.</hi>
+                  </p>
+               </sp>
+               <p>The Church of <hi>Rome</hi> though it were Ulcerous, yet was a true Church of Chriſt, as a man is a man though full of Ulcers.</p>
+               <p>Truth came out of the Church of <hi>Rome.</hi> The Scriptures that have been conveyed through the Church of <hi>Rome,</hi> are true Scriptures.</p>
+               <p>Dr. <hi>Chamb.</hi> denyed, that Truth came out of the Church of <hi>Rome,</hi> or that the Scriptures were conveyed through the Ulce<g ref="char:EOLhyphen"/>rous Church of <hi>Rome.</hi> What is of their conveyance is not true.</p>
+               <p>Mr. <hi>Cranf.</hi> often acknowledged, that the Church of <hi>Rome</hi> was Ulcerous: and Dr. <hi>Chamb.</hi> (upon it) replied, that we may then take up the lamentation of the Prophet <hi>Iſa.</hi> 1.5, 6. <hi>From the ſole of the foot, even to the head, there is no ſoundneſſe,</hi> &amp;c.</p>
+               <p>But can a clean thing come out of an uncleane. <hi>Job.</hi> 14.4. Doth a fountaine ſend forth at the ſame place ſweet water and bitter. <hi>Jer.</hi> 3.11, 12. Do men gather Grapes of Thornes, or Figgs of Thiſtles, <hi>Mat.</hi> 7.16, 17, 18. <hi>Luke,</hi> 6.43, 44. Either
+<pb n="28" facs="tcp:166179:19"/> make the Tree good, and the Fruit good, or the Tree cor<g ref="char:EOLhyphen"/>rupt, and the Fruit corrupt, <hi>Mat.</hi> 12.33.</p>
+               <p>Many other things were ſpoken on both ſides, which could not be written down, and (indeed) this Diſpute was the moſt diſorderly, becauſe ſome things were written and ſome not: By reaſon whereof, it is probable, that both Mr. <hi>Cranf.</hi> and Dr. <hi>Chamb.</hi> might have their thoughts diverted from a clear purſute of their Diſpute, and Dr. <hi>Chamb.</hi> at this time was ſo ill, that he was ſcarce able to ſpeak for Hoarſneſſe. Yet the Arguments will ſufficiently ſhew, what might fully have been proved in the matter. And many other Arguments were pro<g ref="char:EOLhyphen"/>vided: All which may hereafter be mentioned if there be oc<g ref="char:EOLhyphen"/>caſion. They that are deſirous of Truth, may hereby be whetted on to a further enquiry, if they be not ſatisfied: They that are not deſirous, but of itching eares (2 <hi>Tim.</hi> 4.3.) this is too much for. <hi>He that is of God heareth Gods Word.</hi> John, 8.47. and 10.27.</p>
+               <p>Something may chance be further brought to memory, if Mr. <hi>Cranf.</hi> or his Party ſhall think good to adde their Col<g ref="char:EOLhyphen"/>lections alſo.</p>
+               <p>Upon miſreports of theſe Diſputes, theſe fol<g ref="char:EOLhyphen"/>lowing Letters were occaſioned: which lo<g ref="char:EOLhyphen"/>ſing their place in the beginning, are thus added for the better manifeſtation of the occaſion of the Preſſe.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>Erata.</head>
+            <p>IN Page <hi>11.</hi> For, you would fain draw me to believe it, but you ſhall not draw me to it with horſes: <hi>Read,</hi> Doctor, I perceive what you would faine draw me to, but you ſhall not do it with all the Cart-ropes and horſes in Towne. Meaning as we ſuppoſed, Infants Baptiſme.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:166179:19"/>
+            <head>For my much reſpected Friend, Mr. CRANFORD.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THere are ſome think much, that ſo many hours of Diſcourſe ſhould be buried in a Napkin. you may be pleaſed to unfold it to the World, to prevent the overſpreading of miſ-informations, un<g ref="char:EOLhyphen"/>leſſe you deſire I ſhould do it. Let Truth be ſet up on a hill: They that look upwards will ſee it; they that love it will receive it: They that receive it not in love, may then juſtly be given over to ſtrong deluſions, <hi>2 Theſ. 2.10, 11.</hi>
+            </p>
+            <p>
+               <hi>Sir,</hi> Let us not ſtudy our ſelves more then the Glory of God.</p>
+            <closer>
+               <signed>Your loving Friend, PETER CHAMBERLEN.</signed>
+               <dateline>
+                  <date>
+                     <hi>April,</hi> 19. 1652.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>Be pleaſed to return me your Anſwer.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:166179:20"/>
+            <head>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>THe diſcourſe that paſſed between us was undertaken by me upon a par<g ref="char:EOLhyphen"/>ticular occaſion, and hath had its ef<g ref="char:EOLhyphen"/>fect, and done that work which I intended. It is neither in my purpoſe to unfold it to the World, nor in my deſire that you ſhould: there are books enough already of this argu<g ref="char:EOLhyphen"/>ment, (out of which they that deſire ſatis<g ref="char:EOLhyphen"/>faction, out of love to the Truth, may by the bleſſing of God receive it) to which our diſ<g ref="char:EOLhyphen"/>courſe will add little, if any thing. Yet if you have a mind to be printing, I pray you deale ingenuouſly, and truely in your Relation. I conclude as you; the Lord give us that we may ſtudy our ſelves leſſe, and the Truth and glory of God more.</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>
+                  <hi>I reſt, Yours to ſerve you as I may,</hi> JA. CRANFORD.</signed>
+               <dateline>
+                  <date>April, 24. 1652.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:166179:20"/>
+            <head>For my Reverend Friend Mr. CRANFORD.</head>
+            <opener>
+               <salute>SIR.</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Have no itch to provoke the ſpleen of men againſt me, as all printing of the truth will: But it having been reported, that you had ſo convinced me, as to make me forſake the Faith which I do profeſſe, and had ſubſcri<g ref="char:EOLhyphen"/>bed to your Party, I ſuppoſe I am bound to let the Truth appear to the contrary, by giving (as nigh as I can) the true relation of what paſſed between us, not endeavouring ſo much to remember the weakneſſes as the main ſcope, ſo ſolemnly proteſted before the Lord, to enquire after the Truth, ſo that having thoſe things before your eyes, you may have opportunity in coole thoughts to meditate there<g ref="char:EOLhyphen"/>upon, and give glory to the living God, and purchaſe aſſu<g ref="char:EOLhyphen"/>red comfort to your own ſoul in obeying the Truth. And Sir, I beſeech you conſider, whether <hi>Paul</hi> were more glorious when he was riding to <hi>Damaſcus</hi> with Power and Autho<g ref="char:EOLhyphen"/>rity, and Attendants given him from the once beloved peo<g ref="char:EOLhyphen"/>ple of God againſt the true Churches, or when being reviled and perſecuted he eſcaped for his life in a Basket, and ranne to <hi>Jeruſalem, Acts 9.</hi> When he profited more than many of his Equals in the Traditions of his Fathers, or when he preached the Faith which once he deſtroyed, <hi>(Gal. 1.14, 23.)</hi> Yet, Sir, you may now profeſſe the Truth upon eaſier termes, I beſeech you in the Lord conſider, what a miſerable Ordination that muſt be, which is ſqueezed out of an ulce<g ref="char:EOLhyphen"/>rous
+<pb facs="tcp:166179:21"/> Chuch (as you confeſſe it) and to believe, that the moſt Holy God with ſuch ſacrifices, can be well pleaſed. Con<g ref="char:EOLhyphen"/>ſider alſo what a ſtrange kind of Diſcipline that muſt be, that muſt be found in the Mothers belly, (as you ſay Children are taught in their Parents and what a refuge is this, to pick out Children out of the Diſciples of <hi>Moſes,</hi> in <hi>John, 9.28.</hi> Therefore I humbly deſire you, in all Chriſtian love and faithfullneſſe, to lay to heart, whether it will not be better for you once for all to deny your ſelf, and confeſſe the Truth, then to be alwaies ſubject upon all occaſions of diſcourſes, or controverſie concerning theſe and ſome other points, to have ſuch poor refuges, and weak evaſions: Conſider alſo what Glory you may bring to Almighty God, and the Goſpel of Jeſus Chriſt, in bringing many to confeſſe the Truth with you, and no more to reſiſt the Spirit of Truth, and power of the Word of God; Sir, I know none can come unto Chriſt, but thoſe whom the Father draweth <hi>(Joh. 6.44.65.)</hi> and all that the Father hath given him, ſhall come unto him, <hi>v. 37.</hi> of which number if you be, I profeſſe I ſhall be willing to contribute all my endeavours, and to hazard my life for you, and look upon you as ſo much the more precious, by how much, not many wiſe, &amp;c. are called <hi>(1 Cor. 1.26.)</hi> ſo praying for you to the Lord, who is able to doe abundantly above what we can ask or think: I reſt,</p>
+            <closer>
+               <signed>Yours in the Lord, PET. CHAMBERLEN.</signed>
+               <dateline>
+                  <date>April, <hi>26. 1652.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
